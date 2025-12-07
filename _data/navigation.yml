@@ -1,0 +1,18 @@
+# main links
+main:
+  - title: "About Us"
+    url: /about/
+  - title: "Credit Card Terminals"
+    url: /credit-card-terminals/
+  - title: "Processing Application"
+    url: /merchant-application-agreement/
+  - title: "Cash Discount Program"
+    url: /cash-discount-program/
+  - title: "POS Solutions"
+    url: /pos-solutions/
+  - title: "ONPOINT ROS For Restuarants"
+    url: /onpoint-ros/
+  - title: "Finance / Leasing"
+    url: /leasing/
+  - title: "Contact Us"
+    url: /contact/
